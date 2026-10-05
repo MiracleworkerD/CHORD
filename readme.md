@@ -43,7 +43,7 @@ Reproduction guide for the CHORD experiments.
 - [Output Files](#output-files)
 - [Reproducibility Notes](#reproducibility-notes)
 - [Tips and Troubleshooting](#tips-and-troubleshooting)
-- [Anonymous Citation](#anonymous-citation)
+- [Citation](#citation)
 
 ---
 
