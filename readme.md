@@ -1319,19 +1319,16 @@ Before running full meta-learning, it is useful to verify that each domain can b
 
 ---
 
-## Anonymous Citation
+## Citation
 
-This paper is currently anonymous. If you use this repository before the de-anonymized version is released, please cite it as:
+This paper has been accepted as a Spotlight presentation at NeurIPS 2026.
+If you use this repository, please cite:
 
 ```bibtex
-@inproceedings{
-anonymous2026chord,
-title={CHORD: Cross-Model Hallucination Detection via Relational Graph Discrimination},
-author={Anonymous Authors},
-booktitle={Anonymous Conference Submission},
-year={2026}
+@inproceedings{deng2026chord,
+  title={CHORD: Cross-Model Hallucination Detection via Relational Graph Discrimination},
+  author={Yongxin Deng and Zhen Fang and Guansong Pang and Sharon Li and Ling Chen},
+  booktitle={Advances in Neural Information Processing Systems},
+  year={2026}
 }
-```
-
-After the paper is de-anonymized, please replace this entry with the official citation.
 ```
